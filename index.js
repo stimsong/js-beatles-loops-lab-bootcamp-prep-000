@@ -11,6 +11,7 @@ function johnLennonFacts(facts) {
   var i = 0;
   while(i < 4) {
     johnLennonExclamation.push(facts[i] + "!!!");
+    i++;
   }
   return johnLennonExclamation;
 }
