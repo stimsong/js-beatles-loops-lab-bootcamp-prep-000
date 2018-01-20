@@ -10,8 +10,8 @@ function johnLennonFacts(facts) {
 //  var johnLennonExclamation = [];
   var i = 0;
   while(i < 4) {
-    johnLennonFacts.push(facts[i] + "!!!");
+    facts.push(facts[i] + "!!!");
     i++;
   }
-  return johnLennonFacts;
+  return facts;
 }
