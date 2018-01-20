@@ -15,3 +15,8 @@ function johnLennonFacts(facts) {
   }
   return johnLennonExclamation;
 }
+
+function iLoveTheBeatles(number) {
+  var beatlesArray = [];
+  do while(number)
+}
